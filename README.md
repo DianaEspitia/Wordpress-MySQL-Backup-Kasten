@@ -3,4 +3,5 @@ Este repositorio contiene los archivos .yaml para el despliegue de una aplicaci√
 <br />
 
 ## Referencias
-https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/
+* https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/
+* https://www.redhat.com/rhdc/managed-files/pa-kasten-veaam-openshift-reference-architecture-f27057-202101-en.pdf
